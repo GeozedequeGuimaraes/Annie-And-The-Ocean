@@ -23,7 +23,7 @@ Todas essas experiências surpreendentes estão ao seu alcance em "Annie and the
 
 Então, solte sua criatividade e mergulhe nesta aventura aquática! 🐢
 
-## Desenvolvimento👨🏽
+## Desenvolvimento 🛠
 Desenvolvi esse jogo pensando na importancia da protecao dos animais em risco de extincao, desde crianca amo tartarugas e infelizmente algumas expecies estao ameacadas de extincao e foiu com o objetivo de promover a conscientização e oferecer uma abordagem educativa, comecei a desenvolver este jogo. utilizando SwiftUI/Sprik Kit como ferramenta principal de desenvolvimento.
 
 Fiz todos os elementos visuais e os sonoros e foi muito bom poder nao só aprender mais sobre código como também desenvolver minha criatividade.
