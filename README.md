@@ -11,7 +11,8 @@
 
 <div align = "center">
  
-![apre3](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean/assets/74778769/161e23b6-08c7-44cd-8e5b-8e63ac7221d7)
+![apre3](https://github.com/natalialbuquerque/trilha/assets/74778769/36c63601-c849-4ed7-871b-edc61744ddc9)
+
 
 </div>
 
