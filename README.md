@@ -24,9 +24,9 @@ Todas essas experiências surpreendentes estão ao seu alcance em "Annie and the
 Então, solte sua criatividade e mergulhe nesta aventura aquática! 🐢
 
 ## Desenvolvimento 🛠
-Desenvolvi esse jogo pensando na importancia da protecao dos animais em risco de extincao, desde crianca amo tartarugas e infelizmente algumas expecies estao ameacadas de extincao e foiu com o objetivo de promover a conscientização e oferecer uma abordagem educativa, comecei a desenvolver este jogo. utilizando SwiftUI/Sprik Kit como ferramenta principal de desenvolvimento.
+Desenvolvi este jogo pensando na importância da proteção dos animais em risco de extinção. Desde criança, amo tartarugas, e infelizmente, algumas espécies estão ameaçadas de extinção. Com o objetivo de promover a conscientização e oferecer uma abordagem educativa, comecei a desenvolver este jogo, utilizando SwiftUI/SpriteKit como ferramentas principais de desenvolvimento.
 
-Fiz todos os elementos visuais e os sonoros e foi muito bom poder nao só aprender mais sobre código como também desenvolver minha criatividade.
+Criei todos os elementos visuais e sonoros, e foi muito gratificante poder não só aprender mais sobre código, mas também desenvolver minha criatividade
 
 ## Como utiliza? 🛠
 - Baixe o projeto atual
