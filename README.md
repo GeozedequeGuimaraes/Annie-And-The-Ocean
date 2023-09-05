@@ -31,5 +31,5 @@ Fiz todos os elementos visuais e os sonoros e foi muito bom poder nao só aprend
 ## Como utiliza? 🛠
 - Baixe o projeto atual
 - Abra no Playgrunds 
-- Selecione o símbolo de "play" no xcode
+- Selecione o símbolo de "play" 
 
