@@ -5,13 +5,13 @@
 </div>
 <div align = "center">
  
-![apre2](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean/assets/74778769/81e74c32-b261-4b67-b1cf-d15b530102c2)
+![apre2](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean/assets/74778769/fa478255-5b4e-4fc3-b518-9eba3e261d07)
 
 </div>
 
 <div align = "center">
  
-![apre3](https://github.com/natalialbuquerque/trilha/assets/74778769/36c63601-c849-4ed7-871b-edc61744ddc9)
+![apre3](https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean/assets/74778769/4ddeb030-b209-4d50-8c63-6f6725f985b5)
 
 
 </div>
