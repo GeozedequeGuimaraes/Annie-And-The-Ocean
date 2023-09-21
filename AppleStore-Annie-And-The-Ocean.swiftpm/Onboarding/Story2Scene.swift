@@ -92,6 +92,7 @@ class Story2Scene: SKScene {
         turtle.run(repeatTurtle)
     }
     
+    // -MARK: asdas
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         guard canShowButton else {
             for touch in touches {

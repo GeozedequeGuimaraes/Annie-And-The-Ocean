@@ -342,7 +342,11 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         }
         
         if(!finished && started){
-            if(turtle.position.y < (self.size.height/4 - 70)) || (turtle.position.y > (self.size.height/2+600)) {
+            if(turtle.position.y < (self.size.height/4 - 70)) {
+                fimDeJogo ()
+            }
+            
+            if(turtle.position.y > (self.size.height/2+600)){
                 fimDeJogo ()
             }
         }
