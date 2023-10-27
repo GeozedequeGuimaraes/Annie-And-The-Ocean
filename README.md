@@ -10,10 +10,8 @@ Abordando também questões relacionadas a poluição do oceanos e como isso afe
 É importante destacar que "Annie and the Ocean" foi desenvolvido exclusivamente para a WWDC (Conferência Mundial de Desenvolvedores da Apple) e,
 com grande orgulho, foi reconhecido como um dos vencedores na WWDC 2023.
 ## Desenvolvimento👨🏽
-Neste projeto utilizei o UIKit na linguagem Swift. 
-
-Foi um projeto pra colocar em prática conceitos de navegação e autolayout.
 Este aplicativo foi construído usando SwiftUI e SpriteKit 
+Foi um projeto pra colocar em prática conceitos como gravidade, colisão e impulso
 
 ![apre2](https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/a1ebe480-dece-4ba0-9c9e-5429865ebc54)
 ![apre3](https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/e1672bb3-fd68-4eb9-a931-55dac3848753)
