@@ -1,20 +1,36 @@
-# Annie-And-The-Ocean
-Este playground foi criado para [WWDC 2023 Scholarship Application](https://developer.apple.com/wwdc23/swift-student-challenge/).
+# Annie And The Ocean 🌊
 
- ![apre1](https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/2d9e8475-6ca1-4b54-a89f-571dd00e5a8d)
+Swift Playground criado para a **WWDC23 Scholarship Application** — uma história interativa e visualmente imersiva sobre uma menina e o oceano.
 
-## O projeto 📁
-Um jogo que combina diversão e aprendizado, você assume o papel de Annie, uma corajosa tartaruga verde, 
-enquanto ela encara desafios perigosos nas profundezas do oceano em busca de alimento e um refúgio seguro.
-Abordando também questões relacionadas a poluição do oceanos e como isso afeta os animais marinhos. 
-É importante destacar que "Annie and the Ocean" foi desenvolvido exclusivamente para a WWDC (Conferência Mundial de Desenvolvedores da Apple) e,
-com grande orgulho, foi reconhecido como um dos vencedores na WWDC 2023.
-## Desenvolvimento👨🏽
-Este aplicativo foi construído usando SwiftUI e SpriteKit 
-Foi um projeto pra colocar em prática conceitos como gravidade, colisão e impulso
+## 📱 Sobre o Projeto
 
-![apre2](https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/a1ebe480-dece-4ba0-9c9e-5429865ebc54)
-![apre3](https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/e1672bb3-fd68-4eb9-a931-55dac3848753)
+Annie And The Ocean é um Swift Playground desenvolvido como candidatura à bolsa **WWDC23 (Apple Worldwide Developers Conference)**. O projeto conta uma história interativa com animações e uma experiência visual única.
 
-## Como utiliza? 🛠
-basta baixar o projeto e abri-lo no xcode e selecionar o símbolo "play" ou pressionar "comando + R", que iniciará o projeto!
+## 🛠 Tecnologias
+
+- **Swift**
+- **SwiftUI**
+- **Swift Playgrounds**
+- **Animations & Visual Effects**
+- **Xcode**
+
+## ✨ Funcionalidades
+
+- Narrativa interativa com animações
+- Design visual temático com estética oceânica
+- Experiência imersiva construída em Swift Playgrounds
+- Transições e efeitos visuais personalizados
+
+## 🏆 Contexto
+
+Projeto submetido à **WWDC23 Swift Student Challenge** — programa da Apple que reconhece estudantes desenvolvedores de todo o mundo.
+
+## 🚀 Como Executar
+
+1. Clone este repositório
+2. Abra o arquivo `.swiftpm` no Swift Playgrounds ou Xcode
+3. Execute para ver a história
+
+## 👤 Autor
+
+**Geozedeque Guimarães** — [GitHub](https://github.com/GeozedequeGuimaraes) | [LinkedIn](https://linkedin.com/in/geozedeque-guimaraes)
