@@ -1,6 +1,6 @@
 <div align="center">
 
-# Annie And The Ocean 🌊🐢
+# Annie And The Ocean
 
 ### Swift Playground • WWDC23 Swift Student Challenge Winner
 
@@ -13,54 +13,61 @@
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
-**Annie And The Ocean** foi criado para a [WWDC 2023 Swift Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/) e foi reconhecido como um dos **vencedores da WWDC 2023** 🏆
+**Annie And The Ocean** foi criado para a [WWDC 2023 Swift Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/) e foi reconhecido como um dos **vencedores da WWDC 2023**.
 
 Um jogo que combina **diversão e aprendizado**: você assume o papel de Annie, uma corajosa tartaruga verde, enquanto ela enfrenta desafios perigosos nas profundezas do oceano em busca de alimento e um refúgio seguro. O projeto também aborda questões sobre **poluição dos oceanos** e como isso afeta os animais marinhos.
 
 <div align="center">
-  <img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/2d9e8475-6ca1-4b54-a89f-571dd00e5a8d" width="700" alt="Annie And The Ocean - Tela principal"/>
+
+<img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/2d9e8475-6ca1-4b54-a89f-571dd00e5a8d" width="700" alt="Annie And The Ocean - Tela principal"/>
+
 </div>
 
 ---
 
-## 🛠 Desenvolvimento
+## Tecnologias
 
-Este aplicativo foi construído com **SwiftUI** e **SpriteKit**, colocando em prática conceitos como:
+- **Swift** — linguagem principal do desenvolvimento
+- **SwiftUI** — construção da interface e animações
+- **SpriteKit** — física, colisões e mecânicas de gameplay
+- **Xcode** — ambiente de desenvolvimento
 
-- 🌊 **Física** — gravidade, colisão e impulso
-- 🐢 **Gameplay** — mecânicas de movimentação e obstáculos
-- 🎨 **Design** — arte e animações personalizadas
-- 🌍 **Propósito social** — conscientização ambiental
+---
+
+## Screenshots
 
 <div align="center">
-  <img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/a1ebe480-dece-4ba0-9c9e-5429865ebc54" width="340" alt="Annie And The Ocean - Gameplay"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/e1672bb3-fd68-4eb9-a931-55dac3848753" width="340" alt="Annie And The Ocean - Cena do oceano"/>
+
+<img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/a1ebe480-dece-4ba0-9c9e-5429865ebc54" width="340" alt="Annie And The Ocean - Gameplay"/>
+&nbsp;&nbsp;
+<img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/e1672bb3-fd68-4eb9-a931-55dac3848753" width="340" alt="Annie And The Ocean - Cena do oceano"/>
+
 </div>
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone ou baixe este repositório
 2. Abra o projeto no **Xcode** ou **Swift Playgrounds**
-3. Pressione ▶️ ou **Cmd + R** para iniciar
+3. Pressione **Cmd + R** para iniciar
 
 ---
 
-## 🏆 Reconhecimento
+## Reconhecimento
 
 Este projeto foi submetido à **WWDC 2023 Swift Student Challenge** — programa da Apple que reconhece estudantes desenvolvedores de todo o mundo — e foi selecionado como **vencedor**.
 
 ---
 
-## 👤 Autor
+## Autor
 
 <div align="center">
 
 **Geozedeque Guimarães**
+
 Estudante de Ciência da Computação — CIn-UFPE
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
