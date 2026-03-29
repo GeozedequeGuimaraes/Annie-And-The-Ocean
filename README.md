@@ -20,9 +20,7 @@
 Um jogo que combina **diversão e aprendizado**: você assume o papel de Annie, uma corajosa tartaruga verde, enquanto ela enfrenta desafios perigosos nas profundezas do oceano em busca de alimento e um refúgio seguro. O projeto também aborda questões sobre **poluição dos oceanos** e como isso afeta os animais marinhos.
 
 <div align="center">
-
-<img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/2d9e8475-6ca1-4b54-a89f-571dd00e5a8d" width="700" alt="Annie And The Ocean - Tela principal"/>
-
+  <img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/2d9e8475-6ca1-4b54-a89f-571dd00e5a8d" width="700" alt="Annie And The Ocean - Tela principal"/>
 </div>
 
 ---
@@ -33,18 +31,6 @@ Um jogo que combina **diversão e aprendizado**: você assume o papel de Annie, 
 - **SwiftUI** — construção da interface e animações
 - **SpriteKit** — física, colisões e mecânicas de gameplay
 - **Xcode** — ambiente de desenvolvimento
-
----
-
-## Screenshots
-
-<div align="center">
-
-<img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/a1ebe480-dece-4ba0-9c9e-5429865ebc54" width="340" alt="Annie And The Ocean - Gameplay"/>
-&nbsp;&nbsp;
-<img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/e1672bb3-fd68-4eb9-a931-55dac3848753" width="340" alt="Annie And The Ocean - Cena do oceano"/>
-
-</div>
 
 ---
 
@@ -62,12 +48,21 @@ Este projeto foi submetido à **WWDC 2023 Swift Student Challenge** — programa
 
 ---
 
+## Screenshots
+
+<div align="center">
+  <img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/a1ebe480-dece-4ba0-9c9e-5429865ebc54" width="340" alt="Annie And The Ocean - Gameplay"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/GeozedequeGuimaraes/Demeter/assets/74778769/e1672bb3-fd68-4eb9-a931-55dac3848753" width="340" alt="Annie And The Ocean - Cena do oceano"/>
+</div>
+
+---
+
 ## Autor
 
 <div align="center">
 
 **Geozedeque Guimarães**
-
 Estudante de Ciência da Computação — CIn-UFPE
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
