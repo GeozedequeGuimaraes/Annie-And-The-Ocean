@@ -48,7 +48,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     // MARK: - Lifecycle
 
     override func didMove(to view: SKView) {
-        AudioManager.shared.stopStoryAudio()
+        AudioManager.shared.stopAll()
         setupAudio()
 
         self.backgroundColor = .black

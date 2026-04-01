@@ -74,6 +74,16 @@ AppleStore-Annie-And-The-Ocean.swiftpm/
 
 ---
 
+## Demo
+
+<div align="center">
+
+https://github.com/user-attachments/assets/demo.mp4
+
+</div>
+
+---
+
 ## Screenshots
 
 <div align="center">

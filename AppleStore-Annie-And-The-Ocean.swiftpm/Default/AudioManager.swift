@@ -11,7 +11,15 @@ class AudioManager {
 
     private init() {}
 
+    func stopAll() {
+        mainAudio?.stop()
+        mainAudio = nil
+        storyAudio?.stop()
+        storyAudio = nil
+    }
+
     func playMainAudio() {
+        stopAll()
         guard let filePath = Bundle.main.path(forResource: "main", ofType: "mp4") else { return }
         let audioURL = URL(fileURLWithPath: filePath)
         do {
@@ -27,9 +35,11 @@ class AudioManager {
 
     func stopMainAudio() {
         mainAudio?.stop()
+        mainAudio = nil
     }
 
     func playStoryAudio() {
+        stopMainAudio()
         guard let filePath = Bundle.main.path(forResource: "Story", ofType: "mp4") else { return }
         let audioURL = URL(fileURLWithPath: filePath)
         do {
@@ -45,5 +55,6 @@ class AudioManager {
 
     func stopStoryAudio() {
         storyAudio?.stop()
+        storyAudio = nil
     }
 }
