@@ -78,7 +78,7 @@ AppleStore-Annie-And-The-Ocean.swiftpm/
 
 <div align="center">
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/GeozedequeGuimaraes/Annie-And-The-Ocean/raw/main/Screenshots/demo.mp4
 
 </div>
 
